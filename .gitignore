@@ -1,2 +1,8 @@
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+/.quarto/
+/_manuscript
+
+/agujournal2019.cls
+/trackchanges.sty
